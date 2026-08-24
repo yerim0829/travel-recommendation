@@ -1,3 +1,5 @@
+[한국어 README] (README_Korean.md)
+
 # Multimodal Travel Recommendation System
 
 > **Image → CLIP + LoRA → 256-d Embedding → pgvector → Top-K Travel Recommendation**
