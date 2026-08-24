@@ -1,4 +1,4 @@
-[한국어 README] (README_Korean.md)
+[한국어 README](README_Korean.md)
 
 # Multimodal Travel Recommendation System
 
