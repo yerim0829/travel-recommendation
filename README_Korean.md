@@ -133,9 +133,6 @@ Offline model metric에만 의존하지 않고, **100명 대상 blind recommenda
 * 모델 및 retrieval 관련 주요 기술 의사결정 주도
 * 모델 / retrieval / 서비스 통합 및 최종 데모 총괄
 
-> 이 저장소는 팀 프로젝트의 원본 repository를 기반으로 합니다.
-> 위 항목은 제가 직접 담당하거나 주도한 범위를 기준으로 작성했습니다.
-
 ---
 
 ## 📁 Repository Structure
